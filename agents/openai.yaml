@@ -1,0 +1,4 @@
+interface:
+  display_name: "H5 Game Perf & Security Audit"
+  short_description: "Audit H5 game performance and security risks"
+  default_prompt: "Use $h5-game-perf-security-audit to test this H5 game for performance, playability, and security risks."
